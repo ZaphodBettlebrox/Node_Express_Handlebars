@@ -21,3 +21,16 @@ li {
 body{
   background: rgb(0, 160, 235);
 }
+
+.logo {
+  margin: 0 auto;
+  width: 30vw;
+}
+
+.title {
+ font-size: 3vw;
+}
+
+.top-margin {
+  margin-top: 10vh;
+}
